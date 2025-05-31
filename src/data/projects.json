@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Social Media SPA",
+        "imageSrc": "projects/project.png",
+        "description": "Built a React.js SPA using Context API for global state and React Router for navigation. Implemented CRUD operations with Axios and real time search.",
+        "skills": ["React", "Axios", "Routing"],
+        "demo": "http://react-social-medias.netlify.app",
+        "source": "https://github.com/Sooriya25/React_social_media_app"
+    },
+    {
+        "title": "Shopping Cart",
+        "imageSrc":"projects/project.png",
+        "description": "Gained hands-on experience with Redux Toolkit, especially createAsyncThunk, for handling async data from the Fake Store API.",
+        "skills": ["React", "Redux Toolkit", "AsyncThunk"],
+        "demo": "http://react-redux-scar.netlify.app",
+        "source": "https://github.com/Sooriya25/React-Shopping-cart"
+    },
+    {
+        "title": "Realtime Chat App",
+        "imageSrc": "projects/project.png",
+        "description": "Integrated Firebase Realtime Database and Authentication with React for real-time updates and secure login.",
+        "skills": ["React", "Firebase", "Authentication"],
+        "demo": " ",
+        "source": " "
+    }
+]
