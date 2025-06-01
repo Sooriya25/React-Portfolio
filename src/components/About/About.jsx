@@ -26,7 +26,7 @@ const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Continuous Learning</h3>
                         <p>
-                           I'm constantly exploring new tools and best practices in front-end development. Currently diving into Tailwind CSS, form handling, authentication, and deployment workflows to build production-ready applications. 
+                           I'm constantly exploring new tools and best practices in front-end development. Currently diving into Tailwind CSS, authentication, and deployment workflows.
                         </p>
                     </div>
                 </li>

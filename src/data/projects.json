@@ -16,11 +16,11 @@
         "source": "https://github.com/Sooriya25/React-Shopping-cart"
     },
     {
-        "title": "Realtime Chat App",
+        "title": "Dashboard UI",
         "imageSrc": "projects/project.png",
-        "description": "Integrated Firebase Realtime Database and Authentication with React for real-time updates and secure login.",
-        "skills": ["React", "Firebase", "Authentication"],
-        "demo": " ",
-        "source": " "
+        "description": "Built a responsive admin dashboard using React and Tailwind CSS, learning component structure, layout design, and responsiveness.",
+        "skills": ["React", "Tailwind CSS", "Recharts"],
+        "demo": "http://dashboard-uiz.netlify.app",
+        "source": "https://github.com/Sooriya25/dashboard-ui"
     }
 ]

@@ -31,8 +31,8 @@ const TechStack = () => {
                 <p>Node js</p>
             </div>
             <div className={styles.skill}>
-                <div className={styles.skillImageContainer}><img src="/assets/skills/firebase.png" alt="Git" /></div>
-                <p>Firebase</p>
+                <div className={styles.skillImageContainer}><img src="/assets/skills/tailwind.png" alt="Git" /></div>
+                <p>Tailwind CSS</p>
             </div>
             <div className={styles.skill}>
                 <div className={styles.skillImageContainer}><img src="/assets/skills/github.png" alt="Github" /></div>
