@@ -18,6 +18,9 @@ const Contact = () => {
             <li className={styles.link}>
                 <a href="https://www.linkedin.com/in/sooriya-narayanan-r-516559305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="/assets/contact/linkedinIcon.png" alt="Linkedin icon" /></a>
             </li>
+            <li className={styles.link}>
+                <a href="https://www.instagram.com/s_rya_rz?igsh=MWk2a2N2Yzg0MnUzYw=="><img src="/assets/contact/insta.png" alt="insta icon" /></a>
+            </li>
         </ul>
     </footer>
   )

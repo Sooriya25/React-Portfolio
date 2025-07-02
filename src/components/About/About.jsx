@@ -7,7 +7,7 @@ const About = () => {
         <h2 className={styles.title}>About</h2>
         <div className={styles.content}>
             <img 
-                src="/assets/about/about.jpg" 
+                src="/assets/about/about.png" 
                 alt="About icon" 
                 className={styles.aboutImg}
             />

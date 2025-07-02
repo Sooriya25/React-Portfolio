@@ -34,14 +34,14 @@ const TechStack = () => {
                 <div className={styles.skillImageContainer}><img src="/assets/skills/tailwind.png" alt="Git" /></div>
                 <p>Tailwind CSS</p>
             </div>
-            {/* <div className={styles.skill}>
-                <div className={styles.skillImageContainer}><img src="/assets/skills/github.png" alt="Github" /></div>
+            <div className={styles.skill}>
+                <div className={styles.skillImageContainer}><img src="/assets/skills/Express.png" alt="Github" /></div>
                 <p>Express.js</p>
             </div>
             <div className={styles.skill}>
-                <div className={styles.skillImageContainer}><img src="/assets/skills/github.png" alt="Github" /></div>
+                <div className={styles.skillImageContainer}><img src="/assets/skills/MongoDB.png" alt="Github" /></div>
                 <p>MangoDB</p>
-            </div> */}
+            </div>
             <div className={styles.skill}>
                 <div className={styles.skillImageContainer}><img src="/assets/skills/github.png" alt="Github" /></div>
                 <p>Version Control</p>
