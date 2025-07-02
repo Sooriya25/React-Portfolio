@@ -9,17 +9,14 @@ const Contact = () => {
             <p>Feel free to reach out!</p>
         </div>
         <ul className={styles.links}>
-            <li className={styles.link}>
-                <img src="/assets/contact/emailIcon.png" alt="Email icon" />
-                <a href="mailto:sooriya08092003@gmail.com">sooriya08092003@gmail.com</a>
+            <li className={styles.link}>   
+                <a href="mailto:sooriya08092003@gmail.com"><img src="/assets/contact/emailIcon.png" alt="Email icon" /></a>
+            </li>
+            <li className={styles.link}>   
+                <a href="https://github.com/Sooriya25"><img src="/assets/contact/githubIcon.png" alt="Github icon" href="https://github.com/Sooriya25"/></a>
             </li>
             <li className={styles.link}>
-                <img src="/assets/contact/githubIcon.png" alt="Github icon" />
-                <a href="https://github.com/Sooriya25">Sooriya25</a>
-            </li>
-            <li className={styles.link}>
-                <img src="/assets/contact/linkedinIcon.png" alt="Linkedin icon" />
-                <a href="https://www.linkedin.com/in/sooriya-narayanan-r-516559305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Sooriya Narayanan R</a>
+                <a href="https://www.linkedin.com/in/sooriya-narayanan-r-516559305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="/assets/contact/linkedinIcon.png" alt="Linkedin icon" /></a>
             </li>
         </ul>
     </footer>

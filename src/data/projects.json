@@ -1,11 +1,11 @@
 [
     {
-        "title": "Social Media SPA",
+        "title": "Expense Tracker",
         "imageSrc": "projects/project.png",
-        "description": "Built a React.js SPA using Context API for global state and React Router for navigation. Implemented CRUD operations with Axios and real time search.",
-        "skills": ["React", "Axios", "Routing"],
-        "demo": "http://react-social-medias.netlify.app",
-        "source": "https://github.com/Sooriya25/React_social_media_app"
+        "description": "Built a full-stack Expense Tracker using MERN stack. Gained hands-on experience with JWT authentication and secure CRUD operations.",
+        "skills": ["MERN stack", "Tailwind CSS", "Recharts", "JWT"],
+        "demo": "http://expense-trackezr.netlify.app",
+        "source": "https://github.com/Sooriya25/dashboard-ui"
     },
     {
         "title": "Shopping Cart",
@@ -22,5 +22,13 @@
         "skills": ["React", "Tailwind CSS", "Recharts"],
         "demo": "http://dashboard-uiz.netlify.app",
         "source": "https://github.com/Sooriya25/dashboard-ui"
+    },
+    {
+        "title": "Social Media SPA",
+        "imageSrc": "projects/project.png",
+        "description": "Built a React.js SPA using Context API for global state and React Router for navigation. Implemented CRUD operations with Axios and real time search.",
+        "skills": ["React", "Axios", "Routing"],
+        "demo": "http://react-social-medias.netlify.app",
+        "source": "https://github.com/Sooriya25/React_social_media_app"
     }
 ]

@@ -6,7 +6,7 @@ const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
-        <img src={`/assets/${imageSrc}`} alt={`image of ${title}`} className={styles.image} />
+        {/* <img src={`/assets/${imageSrc}`} alt={`image of ${title}`} className={styles.image} /> */}
         <h3 className={styles.title}>{title}</h3>
         <p className={styles.description}>{description}</p>
         <ul className={styles.skills}>

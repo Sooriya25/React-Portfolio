@@ -28,8 +28,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 11px;
-    margin: 30px;
+    gap: 8px;
+    margin: 5px;
 }
 
 .skillImageContainer {
@@ -38,17 +38,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 180px;
-    height: 180px;
+    width: 130px;
+    height: 130px;
 }
 
 .skillImageContainer img{
-    width: 90px;
-    height: 90px;
+    width: 75px;
+    height: 75px;
 }
 
 .skill p {
-    font-size: 25px;
+    font-size: 18px;
     font-family: var(--font-roboto);
     font-weight: 500;
 }
